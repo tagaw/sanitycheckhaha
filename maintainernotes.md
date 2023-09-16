@@ -14,10 +14,10 @@ gpg sign soon!
 
 ## test:
 ```
-pip uninstall -y wibble
+pip uninstall -y santiycheckhaha
 python -m pip cache purge
 
-pip install wibble
+pip install santiycheckhaha
 
 pip install --force-reinstall dist/*.whl
 ```
