@@ -15,7 +15,7 @@ Author: Tyler Gaw
 #         -d DNAworks compatible output
 
 import argparse,sys
-from sanitycheckhaha.ParseStealth import ParseStealth,PalindromeParseStealth
+from helloworld.sanitycheckhaha.ParseStealth import ParseStealth,PalindromeParseStealth
 
 def writeFile(motif: set, outfile: str, sortBool: bool, header: str, dnaWorks: bool):
     '''
