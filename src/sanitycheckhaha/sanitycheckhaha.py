@@ -14,7 +14,6 @@ Author: Tyler Gaw
 #         -p [RC paindromes only | default= False]
 #         -d DNAworks compatible output
 
-
 import argparse,sys
 from sanitycheckhaha.ParseStealth import ParseStealth,PalindromeParseStealth
 
